@@ -1,10 +1,11 @@
-**Cao Cự Chính · Vietnam · 18**  
-Full-Stack Developer · Founder and builder of NoteOverflow.com
+**Cao Cự Chính** · CS Freshman @ VinUniversity · Vietnam  
+Full-Stack Developer
 
-I love to code to solve real problems for real people.
-I build things that get used — every single day — by hundreds of students around the world who can't afford paid alternatives.
+Living on the edge — building product-focused software on serverless edge runtimes, Cloudflare Workers, and modern Web APIs. I'm currently learning Rust.
 
-**Technology I use in production**  
+I build fast using AI, but I actually read, audit, and debug AI-generated code line-by-line.
+
+**Tech Stack**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A)
