@@ -1,7 +1,7 @@
 **Cao Cự Chính** · CS Freshman @ VinUniversity · Vietnam  
 Full-Stack Developer
 
-I live on the edge, building product-focused software on serverless edge runtimes, Cloudflare Workers, and modern Web APIs. I'm currently learning Rust.
+I live on the "edge", building product-focused software on serverless edge runtimes, Cloudflare Workers, and modern Web APIs. I'm currently learning Rust.
 
 I build fast with AI, but I actually read, audit, and debug AI-generated code line by line.
 
